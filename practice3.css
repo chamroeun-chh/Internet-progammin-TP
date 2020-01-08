@@ -1,0 +1,30 @@
+.nav {
+    align-self: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+    width: 200px;
+}
+
+a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li {
+    text-align: center;
+    background: gray;
+    padding: 10px;
+}
+
+li:hover {
+    cursor: pointer;
+    background: black;
+}
+
+li:active {
+    cursor: pointer;
+    background: #666633;
+}

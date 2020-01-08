@@ -1,0 +1,39 @@
+table {
+    border: 1px solid darkred;
+    background-color: #cccccc;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    width: 500px;
+}
+
+th.row1 {
+    padding: 5px;
+    text-align: left;
+    border: 1px solid darkred;
+}
+
+th.row2 {
+    padding: 5px;
+    text-align: right;
+}
+
+td.col1 {
+    padding: 5px;
+    text-align: left;
+    border: 1px solid darkred;
+}
+
+td.col2 {
+    padding: 5px;
+    text-align: right;
+    border: 1px solid darkred;
+}
+
+tr.row1color {
+    background-color: #cc6666;
+    border: 1px solid darkred;
+}
+
+tr.row2color {
+    background-color: #ffffcc
+}
